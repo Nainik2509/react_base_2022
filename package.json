@@ -1,0 +1,35 @@
+{
+  "name": "react_boilerplate",
+  "version": "1.0.0",
+  "description": "A ReactJs Boilerplate code with webpack-5, Eslint, Husky, Preetier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nainik2509/react_base_2022.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Webpack-5",
+    "Husky",
+    "Eslint",
+    "Preetier"
+  ],
+  "author": "Nainik Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nainik2509/react_base_2022/issues"
+  },
+  "homepage": "https://github.com/Nainik2509/react_base_2022#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7"
+  }
+}
