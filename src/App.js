@@ -1,9 +1,11 @@
 import React from "react";
+import ClickCounter from "./ClickCounter";
 
 const App = () => {
   return (
     <div>
-      App {process.env.NODE_ENV} {process.env.name}
+      Apps {process.env.NODE_ENV} {process.env.name}
+      <ClickCounter />
     </div>
   );
 };
