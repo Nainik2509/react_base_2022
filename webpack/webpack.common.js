@@ -1,3 +1,18 @@
+/**
+ * This file is part of [Nainik Base Project]
+ *
+ * (c) 2021 [Nainik Mehta] <[nainikmehta25@gmail.com]>
+ *
+ * --------------------------------------------------
+ *
+ * @module app.v1.baseProject
+ * @description Webpack Common Configuration
+ * @author [Nainik Mehta] <[nainikmehta25@gmail.com]>
+ * @version 1.0.0
+ *
+ * --------------------------------------------------
+ */
+
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 // const CopyPlugin = require('copy-webpack-plugin')
