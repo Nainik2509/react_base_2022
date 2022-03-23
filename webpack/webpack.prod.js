@@ -1,8 +1,10 @@
-const webpack = require("webpack");
+const webpack = require('webpack')
+// const BundleAnalyzerPlugin =
+//   require('webpack-bundle-analyzer').BundleAnalyzerPlugin
 
 module.exports = {
-  mode: "production",
-  devtool: "source-map",
+  mode: 'production',
+  devtool: 'source-map',
   performance: {
     hints: false,
     maxEntrypointSize: 512000,
@@ -10,7 +12,8 @@ module.exports = {
   },
   plugins: [
     new webpack.DefinePlugin({
-      "process.env.name": JSON.stringify("PROJECT_NAME"),
+      'process.env.name': JSON.stringify('PROJECT_NAME'),
     }),
+    // new BundleAnalyzerPlugin(),
   ],
-};
+}
