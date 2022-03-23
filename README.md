@@ -102,8 +102,6 @@ Reach Me Out At :
 [Nainik Mehta](https://github.com/Nainik2509)
 <a href="https://www.linkedin.com/in/nainik-mehta-25nk12" target="_blank"><img src="src/assets/images/linkedin.svg" width="16" height="16"></img></a>
 <a href="https://twitter.com/Nainik25" target="_blank"><img src="src/assets/images/twitter.svg" width="16" height="16"></img></a>
-
-<a href="https://whitelioninfosystems.com/employee/606d5c041c705034c8f53878" target="_blank"><img src="src/assets/images/portfolio.png" width="16" height="16"></img></a>
 <br/>
 <br/>
 Full Stack Developer | Driving Initiatives In Executing Ideas To Reality And Surplus Them |<br/>
@@ -111,4 +109,3 @@ Let's Connect To Explore 👇<br />
 <a href="https://www.linkedin.com/in/nainik-mehta-25nk12" target="_blank"><img src="src/assets/images/linkedin.svg" width="16" height="16"></img></a>
 <a href="https://twitter.com/Nainik25" target="_blank"><img src="src/assets/images/twitter.svg" width="16" height="16"></img></a>
 
-<a href="https://whitelioninfosystems.com/employee/606d5c041c705034c8f53878" target="_blank"><img src="src/assets/images/portfolio.png" width="16" height="16"></img></a>
